@@ -83,7 +83,7 @@ Predict other variables (e.g., Churn Exited) using classification ANN
 📜 License
 This project is open-source under the MIT License. Feel free to use and modify it for academic and learning purposes.
 🙌 Author
-Created by K.Prapulla Kuamr . Feel free to connect!
+Created by K.Prapulla Kumar . Feel free to connect!
 
 
 
